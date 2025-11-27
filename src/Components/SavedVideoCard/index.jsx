@@ -52,7 +52,7 @@ const SavedVideoCard = props => {
                     <ChannelName>{name}</ChannelName>
 
                     <VideoMeta>
-                      <ViewNumber>{viewCount} views</ViewNumber>
+                      <ViewCount>{viewCount} views</ViewCount>
                       <PublishedDate>{publishedAt}</PublishedDate>
                     </VideoMeta>
                   </VideoInfo>

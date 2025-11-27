@@ -1,5 +1,9 @@
 # 🎥 NxtWatch
 
+## 🔗 Live Demo  
+https://nxtwatch-coral.vercel.app/
+
+## Overview
 A full-featured video streaming platform built using **React.js**.  
 It replicates core YouTube functionalities like video browsing, authentication, dark/light theming, saving videos, and playback. All powered by React, Context API, and Styled-Components.
 
